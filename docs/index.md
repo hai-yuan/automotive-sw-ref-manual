@@ -1,10 +1,10 @@
 # 概述
 
-## 本书包括什么
+## 本文档包括什么
 
-* 基础 - 处理器，存储，通信接口，协议, 操作系统, 语言等
-* Adaptive Platform - Adaptive AUTOSAR
-* 智能座舱 - 智能座舱/驾驶舱所涉及的技术
-* 自动驾驶 - 自动驾驶相关技术
+* 通信技术 - 以太网，CAN/CANFD总线
+* AUTOSAR Adaptive Platform
+* Smart Cockpit - 智能座舱/驾驶舱所涉及的技术
+* ADAS - 高级驾驶员辅助系统
 
 
