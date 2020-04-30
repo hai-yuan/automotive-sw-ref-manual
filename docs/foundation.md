@@ -1,6 +1,1 @@
-
-
-# Ethernet
-
-# CAN(FD)
-
+# 以太网
